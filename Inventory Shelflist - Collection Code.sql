@@ -1,3 +1,4 @@
+--Stored procedure for inventory shelf lift by collection code
 USE [Polaris]
 GO
 /****** Object:  StoredProcedure [Polaris].[Rpt_InventoryShelf_Collection]    Script Date: 12/5/2018 3:48:48 PM ******/
